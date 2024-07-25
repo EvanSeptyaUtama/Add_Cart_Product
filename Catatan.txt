@@ -1,0 +1,8 @@
+Laravel 11 Add Cart Product Functionality
+-----------------------------------------
+1. install lvl 11
+2. Create table migration and model
+3. Create Product Seeder
+4. Create Routes
+5. Create Controllers
+6. Create Blade Files
